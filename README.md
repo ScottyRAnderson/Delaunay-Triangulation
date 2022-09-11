@@ -4,5 +4,5 @@ I have also created a simple gradient shader along with an animated point field 
 
 [Implementation Reference](https://www.newcastle.edu.au/__data/assets/pdf_file/0018/22482/07_An-implementation-of-Watsons-algorithm-for-computing-two-dimensional-Delaunay-triangulations.pdf)
 
-![SunsetTriangulation](https://raw.githubusercontent.com/ScottRTAnderson/Images/master/SunsetTriangulation.png)
-![EditorPreview](https://raw.githubusercontent.com/ScottRTAnderson/Images/master/Editor.png)
+![SunsetTriangulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/SunsetTriangulation.png)
+![EditorPreview](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/Editor.png)
