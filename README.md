@@ -7,4 +7,4 @@ I have also created a simple gradient shader along with an animated point field 
 [Created For This Video](https://www.youtube.com/watch?v=4ySSsESzw2Y)
 
 ![SunsetTriangulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/SunsetTriangulation.png)
-![EditorPreview](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/DelaunayEditor.png.png)
+![EditorPreview](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/DelaunayEditor.png)
