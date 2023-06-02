@@ -7,5 +7,5 @@ I have also created a simple gradient shader along with an animated point field 
 Below is a development video detailing the creation process of this system,
 <br>[Game Graphics - Delaunay Triangulation](https://www.youtube.com/watch?v=4ySSsESzw2Y)
 
-![SunsetTriangulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/SunsetTriangulation.png)
-![EditorPreview](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/DelaunayEditor.png)
+![SunsetTriangulation](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/delaunay-triangulation_feature_2.jpg)
+![EditorPreview](https://raw.githubusercontent.com/ScottyRAnderson/Images/master/delaunay-triangulation_feature_1.jpg)
